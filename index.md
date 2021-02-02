@@ -1,34 +1,20 @@
 ## Chad Kalil: Duke Masters student in Economics and Computation
 
-You can use the [editor on GitHub](https://github.com/chadk94/chadk94/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Insert picture of me Here!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I started my undergraduate career at the University of North Carolina where I completed a degree in Economics with my second major in Global and Environmental Studies and a minor in PPE (Politics, Philosophy and Economics). After that I worked for two years at IHS Markit in a pair of roles, finishing my time as a Stock Surveillance Analyst where I worked with IRO's in the tech space. Currently I am working on a Master's degree in Economics and Computation with the goal of working in a software engineering or data science job following graduation. Personally, I spend much of my free time reading books (any good fantasy or history recommendations appreciated), or playing and watching basketball or ultimate frisbee!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Resume
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chadk94/chadk94/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
