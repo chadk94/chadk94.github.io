@@ -1,5 +1,3 @@
-## Chad Kalil: Duke Masters student in Economics and Computation
-
 ![Chad Picture](https://github.com/chadk94/ChadKalil/blob/gh-pages/headshot.jpg)
 
 ### About Me
