@@ -1,4 +1,4 @@
-![Chad Picture](https://github.com/chadk94/ChadKalil/blob/gh-pages/headshot.jpg)
+![Chad Picture](headshot.jpg)
 
 ### About Me
 
