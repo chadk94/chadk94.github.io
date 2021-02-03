@@ -22,8 +22,10 @@ I started my undergraduate career at the University of North Carolina where I co
 **Computer Science**
 - [Name of Project](linktoproject)
   - *Description*
-- [Name of Project](linktoproject)
-  - *Description*
-- [Doodlebug](linktoproject)
+- [Season Simulator (Python)](linktoproject)
+  - *Season simulator using Monte Carlo methods to generate probability distributions for various
+outcomes*
+- [Doodlebug(C++)](linktoproject)
   - *The first larger scale project I ever made! An evolutionary game in which doodlebugs consume ants or die.*
- 
+- [Snake(C++)](linktoproject)
+  - *A remake of the classical snake game to play in the terminal with a high score list built in*
