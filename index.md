@@ -27,5 +27,5 @@ I started my undergraduate career at the University of North Carolina where I co
 outcomes*
 - [Doodlebug(C++)](linktoproject)
   - *The first larger scale project I ever made! An evolutionary game in which doodlebugs consume ants or die.*
-- [Snake(C++)](linktoproject)
+- [Snake(C++)](https://github.com/chadk94/Snake)
   - *A remake of the classical snake game to play in the terminal with a high score list built in*
