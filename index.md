@@ -25,5 +25,5 @@ I started my undergraduate career at the University of North Carolina where I co
 - [Name of Project](linktoproject)
   - *Description*
 - [Doodlebug](linktoproject)
-  - *The first larger scale project I ever made! An evolutionary game in which doodlebugs consume ants or die*
+  - *The first larger scale project I ever made! An evolutionary game in which doodlebugs consume ants or die.*
  
