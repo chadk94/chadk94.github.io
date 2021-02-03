@@ -8,12 +8,22 @@ I started my undergraduate career at the University of North Carolina where I co
 
 [My Resume](Resume.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Projects
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chadk94/chadk94/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Projects
+**Economics**
+- [Night Lights and Property Rights in Nagorno-Karabakh](Kalil%2C%20Chad_Night%20Lights%20and%20Property%20Rights-Working.pdf)
+  - *Regression analysis using satellite luminosity data.*
+- [Name of Project](linktoproject)
+ -- *Description*
+ - [Name of Project](linktoproject)
+ -- *Description*
+ - [Name of Project](linktoproject)
+ -- *Description*
+ 
+**Computer Science**
+- [Name of Project](linktoproject)
+ -- *Description*
+ - [Name of Project](linktoproject)
+ -- *Description*
+ - [Name of Project](linktoproject)
+ -- *Description*
+ 
