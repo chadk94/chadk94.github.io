@@ -5,10 +5,8 @@
 I started my undergraduate career at the University of North Carolina where I completed a degree in Economics with my second major in Global and Environmental Studies and a minor in PPE (Politics, Philosophy and Economics). After that I worked for two years at IHS Markit in a pair of roles, finishing my time as a Stock Surveillance Analyst where I worked with IRO's in the tech space. Currently I am working on a Master's degree at Duke (but nonetheless Go Heels!) in Economics and Computation with the goal of working in a software engineering or data science job following graduation. Personally, I spend much of my free time reading books (any good fantasy or history recommendations appreciated), or playing and watching basketball or ultimate frisbee!
 
 ## Resume
-```markdown
-[test](google.com)
-[My Resume](resume.pdf)
-```
+
+[My Resume](Resume.pdf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
