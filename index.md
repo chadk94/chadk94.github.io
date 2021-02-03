@@ -7,7 +7,7 @@ I started my undergraduate career at the University of North Carolina where I co
 ## Resume
 ```markdown
 
-[Link](url) and ![Image](src)
+[Resume](https://docs.google.com/viewer?url=https://github.com/chadk94/chadk94.github.io/blob/gh-pages/Resume%20One%20pager%20-%20Winter%202020.SWE.pdf) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
