@@ -15,7 +15,8 @@ I started my undergraduate career at the University of North Carolina where I co
 [comment]: <> (- [Name of Project](linktoproject)
    - *Description*
 - [Name of Project](linktoproject)
-  - *Description*)
+  - *Description*
+)
 - [The Pitcher and Batter Game](The%20Pitcher%20and%20Batter%20Game%20(1).pdf)
   - *A game theoretical perspective of the interaction between pitcher and batter in baseball (Capstone paper with Gordon Taylor).*
  
