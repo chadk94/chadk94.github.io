@@ -12,11 +12,11 @@ I started my undergraduate career at the University of North Carolina where I co
 **Economics**
 - [Night Lights and Property Rights in Nagorno-Karabakh](Kalil%2C%20Chad_Night%20Lights%20and%20Property%20Rights-Working.pdf)
   - *A regression analysis using satellite luminosity data of economic growth in a threatened region.*
-<!--- [Name of Project](linktoproject)
+<!-- [Name of Project](linktoproject)
    - *Description*
 - [Name of Project](linktoproject)
   - *Description*
---->
+-->
 - [The Pitcher and Batter Game](The%20Pitcher%20and%20Batter%20Game%20(1).pdf)
   - *A game theoretical perspective of the interaction between pitcher and batter in baseball (Capstone paper with Gordon Taylor).*
  
