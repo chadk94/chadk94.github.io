@@ -18,7 +18,7 @@ I started my undergraduate career at the University of North Carolina where I co
  
 **Computer Science**
 
-- [NBA Statistical Projection (Python](https://github.com/chadk94/NbaML)
+- [NBA Statistical Projection (Python)](https://github.com/chadk94/NbaML)
   - *A machine learning projection process that takes basic boxscore stats from NBA games and given user option of a neural net to project future performance using a variety of different algorithims.*
 - [Lineup Creator (C++)](https://github.com/chadk94/LineupCreator)
   - *Takes a csv of players, salaries and projected points and uses the Knapsack Method to generate optimal DFS lineup based on constraints (projection system and some additions omitted while profitable :-) )*
