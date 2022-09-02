@@ -19,7 +19,7 @@ I started my undergraduate career at the University of North Carolina where I co
 **Computer Science**
 
 - [Machine Learning Prop Bet Tool (Python)](https://github.com/chadk94/Prizepicks)
-  - *An ongoing collaborative project that aims to interact with the Prizepick app API, scrape statistical data off of fbref.com, and use that data to construct an ML model to project outcomes against the lines provided by the Prizepicks app.
+  - *An ongoing collaborative project that aims to interact with the Prizepick app API, scrape statistical data off of fbref.com, and use that data to construct an ML model to project outcomes against the lines provided by the Prizepicks app.*
 
 - [NBA Statistical Projection (Python)](https://github.com/chadk94/NbaML)
   - *A machine learning projection process that takes basic boxscore stats from NBA games and given user option of a neural net to project future performance using a variety of different algorithims.*
