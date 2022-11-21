@@ -28,7 +28,3 @@ I started my undergraduate career at the University of North Carolina where I co
 - [Season Simulator (Python)](linktoproject)
   - *Season simulator using Monte Carlo methods to generate probability distributions for various
 outcomes*
-- [Doodlebug(C++)](https://github.com/chadk94/Doodlebug/tree/master)
-  - *The first larger scale project I ever made (and now hate how I wrote as is natural)! An evolutionary model in which doodlebugs consume ants or die.*
-- [Snake(C++)](https://github.com/chadk94/Snake)
-  - *A remake of the classical snake game to play in the terminal with a high score list built in*
